@@ -1,0 +1,7 @@
+.messagePanel {
+  border: solid 1px red;
+  width: 85%;
+  height: 150px;
+  margin-top: 15px;
+  padding: 15px;
+}
